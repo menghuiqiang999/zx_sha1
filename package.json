@@ -1,0 +1,16 @@
+{
+  "name": "zx_sha1",
+  "version": "1.0.0",
+  "description": "function sha1",
+  "main": "sha1.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "zx",
+    "zx_sha1",
+    "sha1"
+  ],
+  "author": "zx",
+  "license": "MIT"
+}
