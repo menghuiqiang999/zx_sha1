@@ -1,6 +1,6 @@
 {
   "name": "zx_sha1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "function sha1",
   "main": "sha1.js",
   "scripts": {
@@ -12,5 +12,13 @@
     "sha1"
   ],
   "author": "zx",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menghuiqiang999/zx_sha1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/menghuiqiang999/zx_sha1/issues"
+  },
+  "homepage": "https://github.com/menghuiqiang999/zx_sha1#readme"
 }
